@@ -1,5 +1,9 @@
 ## Columbia University | 2024 Fall IEOR 4526 Cloud Analytic | Final Project
-Team Members: Fan Bu (fbxxxx); Zexing Hu (zh2585)
+Team Members: Fan Bu (fb2635); Zexing Hu (zh2585)
+
+URL:https://loanapprovalimg-560365338512.us-east4.run.app
+
+Expiration Date: December 20 2024
 
 ### Run the program:
 1. Build the image
